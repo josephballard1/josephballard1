@@ -1,18 +1,28 @@
 # Joseph Ballard
-
-**SDE Apprentice @ AWS Amplify | U.S. Army Veteran | Cybersecurity Professional**
-
-I am a Software Engineer focused on building resilient cloud infrastructure. Currently, I am a member of the AWS Amplify Data Plane team, where I bridge the gap between high-level operational discipline and distributed system architecture.
-
-- **Currently working on:** Developing automated safety mechanisms (Circuit Breakers) to enhance the reliability of AWS Amplify deployments.
-- **Currently learning:** Deepening proficiency in TypeScript and Java, and exploring Rust for high-performance cloud utility development.
-- **Ask me about:** Distributed systems reliability, Cybersecurity best practices, or 23 years of leadership and operational strategy in the U.S. Army.
-- **Fun fact:** Outside of the terminal, I’m a Dungeon Master running an expansive homebrew campaign set in the Forgotten Realms, weaving together the narratives of Phandelver, Icespire Peak, and Tyranny of Dragons.
-
+ 
+**Software Engineer | U.S. Army Veteran | Cybersecurity**
+ 
+I build resilient cloud software. I came to engineering after twenty-three years in the U.S. Army and seven in federal law enforcement, and I bring the operational discipline of both to distributed systems work.
+ 
+Most recently I was an **SDE Apprentice on the AWS Amplify Data Plane team**, where I worked on automated safety mechanisms — circuit breakers designed to halt high-risk deployments before they could cause wider impact — and authored customer-facing technical documentation for Amplify Hosting cache invalidation. Primarily TypeScript and Java, in a design-review and code-review culture.
+ 
+Before that I earned a **B.S. in Computer Information Systems** from DeVry University (December 2024), Summa Cum Laude, 4.0.
+ 
+- 🔭 **Building now:** a full-stack project combining cybersecurity and AI/ML — the thing I most want to do next
+- 🌱 **Learning:** deepening TypeScript and Java; studying for CompTIA Security+
+- 💬 **Ask me about:** deployment reliability, security fundamentals, or twenty-three years of leadership under pressure
+- 🎲 **Fun fact:** outside the terminal I'm a Dungeon Master running an expansive homebrew campaign in the Forgotten Realms, weaving together Phandelver, Icespire Peak, and Tyranny of Dragons
+- 📫 **Open to remote software engineering roles** — josephballard1@gmail.com
+ 
 ---
-
+ 
 ### Technical Toolbox
-* **Languages:** TypeScript, Java, Rust
-* **Cloud:** AWS (Amplify, Lambda, Hosting, DynamoDB)
-* **Security:** Network Security, Vulnerability Assessment, Information Assurance
-* **Professional:** Operational Leadership, Technical Documentation, System Design
+ 
+- **Languages:** TypeScript, Java, Python, C#, SQL
+- **Cloud:** AWS (Amplify, Lambda, Hosting, DynamoDB)
+- **Security:** Network security, vulnerability assessment, information assurance, access control
+- **Practice:** Git, code review, technical design documentation, system design
+ 
+---
+ 
+[Portfolio](https://josephballard1.wixsite.com/josephballard) · [LinkedIn](www.linkedin.com/in/josephballard1)
